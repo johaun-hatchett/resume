@@ -1,6 +1,7 @@
 # Johaun J. Hatchett
 
->  Houston, TX 77030  
+>  **Secret Level** security clearance, issued June 20, 2022 \
+>  Houston, TX 77030 \
 >  Phone: +1 512 284 6800 | Email: jh152@rice.edu
 
 ## Education
@@ -51,9 +52,9 @@ Sep. 2019 -- June 2020
 
     1. Analyzed data from XMM-Newton space telescope of X-ray emission of accretion disk of supermassive black hole 1H1934-063. Created and analyzed best-fit spectral models to determine the statistical significance of preliminary evidence for relativistic ejection event from black hole.
 
-## Programming Skills & Notable Projects
+## Programming Skills
 
-**Languages/Software:** Proficient in MATLAB, Python, Unix-like scripting. Familiar with HTML + CSS.
+**Languages/Software:** Proficient in Python, MATLAB, Julia, Unix-like scripting. Familiar with HTML/CSS.
 
 ## Professional Involvement
 
